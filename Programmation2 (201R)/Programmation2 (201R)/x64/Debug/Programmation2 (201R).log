@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+C:\Users\aissa\source\repos\Programmation2 (201R)\Functions.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Programmation2 (201R).cpp
+  Generating Code...
+  Programmation2 (201R).vcxproj -> C:\Users\aissa\source\repos\Programmation2 (201R)\x64\Debug\Programmation2 (201R).exe
